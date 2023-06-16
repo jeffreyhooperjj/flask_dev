@@ -1,0 +1,7 @@
+1. create api for app
+    POST /login
+    GET /users/<user_id>
+    
+2. create database
+3. run tests to connect api and database
+4. create 
